@@ -1,0 +1,124 @@
+#text {
+	margin: 0px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	position: absolute;
+	left: 24px;
+	top: 200px;
+	width: 90%;
+	padding-top: 20px;  
+    line-height: 22px;
+	}
+
+    #text a:link {
+        color: #af0606;
+        text-decoration: none;
+    }
+    
+    #text a:visited {
+        color: #af0606;
+        text-decoration: none;
+    }
+
+#text h3 {
+    margin: 0px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 26px;
+    font-weight: bold;
+    color: #000000;
+	}
+
+#topbar {
+	height: 135px;
+	width:90%;
+	left: 4px;
+	top: 4px;
+	position: absolute;
+    border: 8px solid#af0606;
+	background-color: #dab8b8;
+	color: #030000e8;			
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 0px;
+	padding-left: 10px;
+    border-radius:10px;
+}
+
+#topbar h2 {
+    margin: 0px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 26px;
+    line-height: 40px;
+    font-weight: bold;
+    border-radius:10px;
+}
+
+
+#topmenu {
+	height: 30px;
+	width:90%;
+	left: 4px;
+	top: 160px;
+	position: absolute;
+	background-color: #ffffffe8;
+}
+
+#topmenu table{
+border: 0;
+top: -0px;
+position: absolute;
+border-spacing: 10;
+}
+
+#topmenu table td {
+	border: 4px solid#af0606;
+	width: 90;
+	height: 38;
+	background-color: #ffffffe8;
+	color: #af0606;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	text-align: middle;
+    border-radius:10px;
+}
+
+
+#topmenu table td a:link {
+    display: block; 
+    width: 100%;
+    /*border: 4px solid#af0606;*/
+	background-color: #ffffffe8;
+	color: #af0606;
+	text-decoration: none;
+}
+
+#topmenu table td a:visited {
+    display: block; 
+    width: 100%;
+    /*border: 4px solid#af0606;*/
+	background-color: #ffffffe8;
+	color: #af0606;
+	text-decoration: none;
+}
+
+#topmenu table td a:hover {
+    display: block; 
+    width: 100%;
+	text-decoration: none;
+	color: #ffffffe8;
+	background-color: #af0606;		
+	border: 4px solid #af0606;
+
+}
+
+hr{
+    height: 2px;;
+    background-color:#af0606;
+}
+
+
+
